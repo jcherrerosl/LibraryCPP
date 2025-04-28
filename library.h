@@ -1,5 +1,5 @@
-#ifndef EJEMPLO2_H
-# define EJEMPLO2_H
+#ifndef LIBRARY_H
+# define LIBRARY_H
 
 # include <iostream>
 # include <string>
